@@ -1,0 +1,2 @@
+Aby czcionka Roboto-Black.ttf została załadowana należy najpierw ją zainstalować, znajduje się w folderze w tym zipie.
+W menu operujemy za pomocą myszki.
